@@ -27,8 +27,10 @@ The goal is to extract meaningful business insights related to sales performance
 - Interactive filters and slicers for better analysis
 
 ## 📷 Dashboard Preview
-_(Add dashboard screenshots here)_
-
+<img width="626" height="810" alt="image" src="https://github.com/user-attachments/assets/7e1cbec6-9977-4e54-9a2c-521214bc26fe" />
+  --Filtered Preview(Sales in Maharshtra)
+ <img width="629" height="812" alt="image" src="https://github.com/user-attachments/assets/84bfd487-5562-4fe9-8ba2-12a40c3f26ae" />
+ 
 ## 📂 Dataset
 - Amazon sales data (2022)
 - Data cleaned and transformed for analysis
